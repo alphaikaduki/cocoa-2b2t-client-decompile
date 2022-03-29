@@ -1,4 +1,4 @@
-# crepe Client
+# Crepe Client
 <p align="center">
   <br><a href="https://discord.gg/alpha-team">AlphaTeam</a>
 </p>
